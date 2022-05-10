@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @private-doggo
+- 👀 I’m interested in web, Java, Flutter, PHP, Python, etc.
+- 🌱 I’m currently learning PHP (Yii2 framework)
+- 💞️ I’m looking to collaborate on project as Fullstack (BE) Software Engineer
+- 📫 How to reach me: telegram - @eurovision22, Linkedin - https://www.linkedin.com/in/ryhor-aurukievic/
