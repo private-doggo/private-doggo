@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning PHP (Yii2 framework) and Dart/Flutter (feature-first, BLoC architecture pattern)
 - 💞️ I’m looking to collaborate on project as Fullstack (BE) Software Engineer
 - 📫 How to reach me: telegram - @eurovision22, Linkedin - https://www.linkedin.com/in/ryhor-aurukievic/
+- 📄 My CV: ![My CV](https://www.linkedin.com/posts/ryhor-aurukievic_my-cv-activity-6929800147677659137-hyqY?utm_source=linkedin_share&utm_medium=member_desktop_web)
